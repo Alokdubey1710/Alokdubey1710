@@ -1,4 +1,4 @@
-- Hi, I’m Alok kuma
+- Hi, I’m Alok kumar
 -  I’m interested in web devlopment and java
 -  I’m currently learning java and dsa
 -  I'm a 3rd year student of B.tech cse
