@@ -1,7 +1,7 @@
 - Hi, I’m Alok kumar
 -  I’m interested in web devlopment and java
 -  I’m currently learning java and dsa
--  I'm a 3rd year student of B.tech cse
+-  I'm a 4th year student of B.tech cse
 -  i'm pursuing my btech from babu banarasi das university
 -  I'm living in Lucknow
 -  Thanku for visiting my profile
